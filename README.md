@@ -4,4 +4,4 @@ I ❤️&nbsp; creating beautiful things that happen to be `web applications` an
 <br/>
 Let's talk about your new exciting idea over ☕  &nbsp;or 🍵
   
-✉️ Drop me a line! 👉 sidhlee@gmail.com 
+✨ My brand-new website! 👉 [sidhlee.com](https://www.sidhlee.com/)
