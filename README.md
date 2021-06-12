@@ -6,7 +6,7 @@ As a lifelong learner and former music professor, I enjoy learning & applying th
 
 - ✨ My brand-new portfolio site!  👉 [sidhlee.com](https://www.sidhlee.com/)
 - 🍞 My favorite tools: React & TypeScript
-- 🛠 Used in projects: Gatsby, Firebase, MongoDB, Node Express, and Jest.
+- 🛠 tools I've used: Gatsby, Firebase, MongoDB, Node Express, Jest and many more.
 - 🔬 Currenly learning: Next.js
 - 🎹 Quick fact: I'm an award-winning jazz pianist & electronic music producer.
 - 💼 Find my resume [here](https://github.com/sidhlee/sidhlee.com/blob/main/src/download/sid-lee-resume.pdf)
