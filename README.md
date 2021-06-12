@@ -11,15 +11,14 @@ As a lifelong learner and former music professor, I enjoy learning & applying th
 - 🎹 Quick fact: I'm an award-winning jazz pianist & electronic music producer.
 - 💼 Find my resume [here](https://github.com/sidhlee/sidhlee.com/blob/main/src/download/sid-lee-resume.pdf)
 
-## Connect with me:
+## Connect with me
+
+- [Twitter](https://twitter.com/sidhlee)
+- [LinkedIn](https://www.linkedin.com/in/sid-hayoun-lee/)  
 
 
-<a href="https://twitter.com/sidhlee">
-  <img align="left" alt="Sid Lee | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/sid-hayoun-lee/">
-  <img align="left" alt="Sid's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
+<div>
+<img src="https://visitor-badge.glitch.me/badge?page_id=sidhlee.visitor-badge" />
+</div>
   
 
