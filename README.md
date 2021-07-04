@@ -2,7 +2,7 @@
 
 ## A Full-Stack Web Developer passionate about creating great user-experiences on the web.
 
-As a lifelong learner and former music professor, I enjoy learning & applying the latest web technologies to create web applications that are easy to use, solve problem for users, and written by clean and maintainable code for myself and other developers.
+As a lifelong learner and former music professor, I enjoy learning & applying the latest web technologies to create web applications that are easy to use, solve problem for users, and are written with clean and maintainable code for myself and other developers.
 
 - ✨ My brand-new portfolio site!  👉 [sidhlee.com](https://www.sidhlee.com/)
 - 🍞 My favorite tools: React & TypeScript
