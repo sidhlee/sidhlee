@@ -5,7 +5,7 @@
 As a lifelong learner and a former jazz-pianist and composer, I am currently working full-time as a software engineer at Wave Financial.
 
 - ✨ My portfolio site  👉 [sidhlee.com](https://www.sidhlee.com/)
-- 🍞 My favorite tools: Python + Django, Postgres, Redis, Kafka, React, TypeScript
+- 🍞 My favorite tools: Python + Django, Postgres, Redis, Kafka, Protobuf, GRPC, Apollo GraphQL, React, and TypeScript
 - 🛠 tools I've used: Gatsby, Next.js, Redux, Firebase, MongoDB, Node Express, Jest, and many more.
 - 🔬 Currenly interested in: System design patterns for micro-service architecture.
 - 🎹 Trivia: I'm an award-winning jazz pianist & electronic music producer.
