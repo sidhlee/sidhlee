@@ -1,7 +1,6 @@
 # Sid Hayoun Lee - Software Engineer
 
-Welcome! I'm a Software Engineer specializing in full-stack development, microservices, and scalable systems[.](https://github.com/sidhlee/software-commonplace-book)
-
+Welcome! I'm a Software Engineer specializing in full-stack development, microservices, and scalable systems<span style="display:none">[.](https://github.com/sidhlee/software-commonplace-book)</span>
 ---
 
 ## Work Experience
