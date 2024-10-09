@@ -1,24 +1,45 @@
-# Hi 👋 , I'm Sid!
+# Sid Hayoun Lee - Software Engineer
 
-## A musician turned software engineer.
+Welcome! I'm a Software Engineer specializing in full-stack development, microservices, and scalable systems[.](https://github.com/sidhlee/software-commonplace-book)
 
-As a lifelong learner and a former jazz-pianist and composer, I am currently working full-time as a software engineer at Wave Financial.
+---
 
-- ✨ My portfolio site  👉 [sidhlee.com](https://www.sidhlee.com/)
-- 🍞 My favorite tools: Python + Django, Postgres, Redis, Kafka, Protobuf, GRPC, Apollo GraphQL, React, and TypeScript
-- 🛠 tools I've used: Gatsby, Next.js, Redux, Firebase, MongoDB, Node Express, Jest, and many more.
-- 🔬 Currenly interested in: System design patterns for micro-service architecture.
-- 🎹 Trivia: I'm an award-winning jazz pianist & electronic music producer.
-- 💼 Find my resume [here](https://github.com/sidhlee/sidhlee.com/blob/main/src/download/sid-lee-resume.pdf)
+## Work Experience
 
-## Connect with me
+### **Wave HQ**
+**Software Engineer III, Payroll**  
+*Jul 2024 - Present · Remote*  
+- Working on scalable payroll systems using Ruby on Rails, React.js, PostgreSQL, and Kubernetes.
 
-- [Twitter](https://twitter.com/sidhlee)
-- [LinkedIn](https://www.linkedin.com/in/sid-hayoun-lee/)  
+**Software Engineer II, Invoicing & Payments**  
+*Jul 2022 - Jun 2024 · Remote*  
+- Led a successful SaaS monetization project and reduced system vulnerabilities by 89%.  
+- Skills: Python, Node.js, PostgreSQL, Apache Kafka, Systems Design.
 
+**Software Engineer I, Invoicing**  
+*Sep 2021 - Jun 2022 · Remote*  
+- Delivered a security feature reducing malicious activity by 99%.  
+- Skills: Django, React.js, Microservices.
 
-<div>
-<img src="https://visitor-badge.glitch.me/badge?page_id=sidhlee.visitor-badge" />
-</div>
-  
+### **Freelance Web Developer / Mentor**  
+*Dec 2018 - Sep 2021 · Toronto*  
+- Developed 50+ full-stack web apps using MERN stack, Firebase, and Gatsby.  
+- Mentored students at Juno College.
 
+### **University Teaching Experience**  
+- **Dongduk Women’s University**: Cooperative Professor (2016-2020)  
+- **Seoul National University**: Lecturer (2015-2016)
+
+---
+
+## Skills
+
+- **Languages**: Python, Ruby, JavaScript, TypeScript  
+- **Frameworks**: Django, Ruby on Rails, React.js, Node.js  
+- **DevOps**: Kubernetes, Docker, Apache Kafka  
+- **Databases**: PostgreSQL, MongoDB  
+- **Architecture**: Microservices, Full-Stack Development
+
+---
+
+Thanks for stopping by! Check out my repositories for more details.
